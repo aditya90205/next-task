@@ -17,7 +17,7 @@ export default function Home() {
     <div className="flex">
       <CategorySidebar />
 
-      <div className="flex-1">
+      <div className="flex-1 px-7">
         <SearchBar />
         <ProductList />
       </div>

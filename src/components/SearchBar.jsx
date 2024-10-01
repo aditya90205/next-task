@@ -12,7 +12,7 @@ export default function SearchBar() {
   };
 
   return (
-    <div className="p-4 w-9/12">
+    <div className="p-4">
       <input
         type="text"
         value={searchQuery}
